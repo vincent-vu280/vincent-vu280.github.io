@@ -13,6 +13,7 @@ const COLORS = [
   "purple"
 ];
 
+
 let selectedColor = undefined;
 let disableClick = false;
 
